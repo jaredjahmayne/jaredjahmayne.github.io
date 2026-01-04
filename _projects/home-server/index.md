@@ -8,7 +8,7 @@ skills:
   - Networking (DNS/VPN)
   - ZFS File Systems
   - Linux Administration
-main-image: /server-image.jpg
+main-image: /server-image.JPG
 ---
 
 ### **Project Overview**
