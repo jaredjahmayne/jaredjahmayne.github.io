@@ -12,7 +12,7 @@ main-image: /assets/images/fender-burn-in-rack-2.jpg
 ---
 
 ### Project Overview
-During my internship at Fender, I was responsible for implementing a "burn-in" process for a specific line of amplifiers. The objective was to stress-test the units under load to trigger early component failures (infant mortality) before they reached final packaging, thereby reducing warranty claims.
+During my internship at Fender, I was responsible for implementing a "burn-in" process for the production line of amplifiers. The objective was to stress-test the units under load to trigger early component failures (infant mortality) before they reached final packaging, thereby reducing warranty claims.
 
 ### Design & Implementation
 I designed and assembled a mobile rack system capable of testing multiple units simultaneously. Key engineering contributions included:
