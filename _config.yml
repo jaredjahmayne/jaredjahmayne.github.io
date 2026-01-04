@@ -20,8 +20,7 @@ description: >- # dont remove this line. this will ignore all new lines until th
   Whether I’m designing or helping my team, my goal is always the same to create work that is as functional as it is impactful.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/avatar.jpeg
-
+profile_image: ./assets/images/profile-image/jw-portfolio-image.jpg
 
 # Link your resume
 # You can place your resume in assets/resume/{resume.pdf or add external link such as pdf saved in google drive 
