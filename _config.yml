@@ -6,7 +6,7 @@
 # feature for the data you need to update frequently.
 
 # Main Page Setup
-title: Jared Warren - Portfolio # This is what shows up in the tab of the browser
+title: Jared Warren's Portfolio # This is what shows up in the tab of the browser
 
 # Hero Section
 name: Jared Warren
@@ -50,7 +50,7 @@ skills:
     - Fusion 360
     - GD&T (ASME Y14.5)
     - PDM / Version Control
- - category: Prototyping & Manufacturing
+  - category: Prototyping & Manufacturing
     tools:
     - FDM / 3D Printing
     - CNC Machining & Mill Work
@@ -58,14 +58,14 @@ skills:
     - Laser Cutting
     - Fabrication & Welding
     - Woodworking 
- - category: Electronics & Instrumentation
+  - category: Electronics & Instrumentation
     tools:
     - Circuit Analysis & Breadboarding
     - Wiring Harness Design
     - Soldering & Repair
     - Data Acquisition (DAQ)
     - Live Audio Production
- - category: Software & Home Lab
+  - category: Software & Home Lab
     tools:
     - Linux / Ubuntu
     - TrueNAS Scale (ZFS)
