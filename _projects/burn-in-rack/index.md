@@ -8,7 +8,7 @@ skills:
   - Manufacturing Ops
   - Electrical Safety
   - Quality Assurance
-main-image: /assets/images/fender-burn-in-rack-2.jpg
+main-image: /fender-burn-in-rack-1.jpg
 ---
 
 ### Project Overview
