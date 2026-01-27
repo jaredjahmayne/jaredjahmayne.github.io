@@ -8,7 +8,7 @@ skills:
   - Engine Performance Modeling
   - MATLAB / Simulink
   - Data Visualization
-main-image: frictioneclipse.png
+main-image: /frictioneclipse.png
 ---
 
 ### Project Overview
