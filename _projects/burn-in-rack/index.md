@@ -28,12 +28,12 @@ I designed and assembled a mobile rack system capable of testing multiple units 
 
 ### Quality Control & Assembly
 {% include image-gallery.html images="amp-qc1.jpg, amp-qc2.jpg, amp-qc3.jpg, amp-qc4.jpg, amp-qc5.jpg, amp-qc6.jpg" height="200" %}
-
+<br>
 ### Quality Assurance Process
 {% include image-gallery.html images="amp-qa1.jpg, amp-qa2.jpg, amp-qa3.jpg, amp-qa4.jpg, amp-qa5.jpg, amp-qa6.jpg, amp-qa7.jpg" height="200" %}
-
+<br>
 ### PCB Inspection & Testing
 {% include image-gallery.html images="pcb-qc.jpg, pcb-qc2.jpg, pcb-qc3.jpg, pcb-qc4.jpg, pcb-qc5.jpg" height="200" %}
-
+<br>
 ### Jigs Assembly
 {% include image-gallery.html images="amp-jig.jpg, amp-jig2.jpg, amp-jig3.jpg" height="300" %}
