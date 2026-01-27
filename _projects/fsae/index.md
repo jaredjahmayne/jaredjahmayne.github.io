@@ -38,6 +38,6 @@ Developed a rigorous testing program prioritizing safety and data validation:
 * **Data Logging:** Standardized testing logs to correlate static design goals with dynamic real-world data.
 
 ### Vehicle Gallery
-{% include image-gallery.html images="4.3front.png,4.3side.png,4.3rear.png,4.3top.png" height="200" %}
+{% include image-gallery.html images="/assets/4.3front.png, /assets/4.3side.png, /assets/4.3rear.png, /assets/4.3top.png" height="200" %}
 
-{% include image-gallery.html images="4.3iso.png,4.3leftiso.png" height="400" %}
+{% include image-gallery.html images="/assets/4.3iso.png, /assets/4.3leftiso.png" height="400" %}
