@@ -1,32 +1,43 @@
 ---
 layout: post
-title: Vehicle Dynamics & Performance Simulation
-description: Deriving vehicle performance targets through tire data analysis, aerodynamic mapping, and engine simulation.
+title: Formula SAE
+description: Technical director for the university racing team. Responsible for full-vehicle system integration, design validation, and manufacturing timelines.
 skills:
-  - Tire Data Analysis (TTC)
-  - Aerodynamic Target Setting
-  - Engine Performance Modeling
-  - MATLAB / Simulink
-  - Data Visualization
-main-image: frictioneclipse.png
+  - Technical Leadership
+  - Systems Integration
+  - SolidWorks (Master Assembly)
+  - Vehicle Dynamics
+  - Design for Manufacturing (DFM)
+  - Project Management
+main-image: /fsae-car-1.jpg
 ---
 
-### Project Overview
-My primary role as Vehicle Dynamics Lead was to transition the team from "rule of thumb" design to data-driven engineering. This involved creating a full vehicle performance model to set objective targets for the subsystem teams.
+### Role Overview
+As **Chief Technical Officer (CTO)** for the Cal State Fullerton Formula SAE team, I hold primary responsibility for the technical direction of the 2026 competition vehicle. My role bridges the gap between design theory and physical manufacturing, ensuring that all sub-systems (Frame, Suspension, Powertrain, Aero) integrate seamlessly into a high-performance vehicle.
 
-### 1. Tire Data Analysis & Handling Targets
-I utilized raw data from the Formula SAE Tire Test Consortium (TTC) to characterize our tire performance. By fitting the data to curves, I calculated optimal targets for:
-* **Slip Angle:** Identifying the peak lateral force to set steering geometry.
-* **Understeer Gradient:** Modeled the vehicle's steady-state handling behavior to ensure neutral steer characteristics at the limit.
+### Technical Management & Systems Integration
+* **Master CAD Assembly:** Manage the top-level SolidWorks assembly, performing regular interference checks to resolve packaging conflicts between sub-teams early in the design phase.
+* **Design Freeze & Timeline:** Enforce strict "Design Freeze" dates to prevent feature creep, ensuring the team transitions to manufacturing on schedule to maximize testing time.
+* **Design for Manufacturing (DFM):** Implemented a mandatory DFM review policy where all components must be vetted for manufacturability and cost before approval. *If we can't make it or afford it, it doesn't go on the car.*
+* **Risk Management (FMEA):** Led Failure Mode and Effects Analysis sessions to identify critical failure points and develop mitigation strategies for trackside reliability.
 
-{% include image-gallery.html images="FY_v_SA.png, MZ_v_SA.png, ggdiagram.png, optimaltemp.png, understeergradient.png" height="300" %}
+### Documentation & Compliance
+I am responsible for the technical deliverables required for the SAE Collegiate Design Series:
+* **Structural Equivalency Spreadsheet (SES):** Validate chassis safety compliance.
+* **Design Report:** Author the comprehensive document justifying engineering decisions.
+* **Bill of Materials (BOM):** Maintain a technical list of every part on the car for the Cost Report.
 
-### 2. Aerodynamic Targets
-I developed a sensitivity analysis to determine the point of diminishing returns for downforce vs. drag. These targets were passed to the Aero team to ensure the package was efficient for the specific average speeds of the FSAE competition.
+### Engineering Focus: Vehicle Dynamics
+In addition to my duties as CTO, I serve as the Vehicle Dynamics Lead:
+* **Suspension Design:** Defined kinematic targets and geometry to optimize tire contact patches.
+* **Simulation:** Validated design goals using MATLAB and ANSYS to ensure structural integrity under 3G cornering loads.
 
-{% include image-gallery.html images="aeroldratio.png, aerotargets.png" height="300" %}
+### Testing & Safety Protocols
+Developed a rigorous testing program prioritizing safety and data validation:
+* **Safety Standards:** Enforced a "No-Move" policy unless a fire extinguisher, safety officer, and pre-flight checklist are present.
+* **Data Logging:** Standardized testing logs to correlate static design goals with dynamic real-world data.
 
-### 3. Engine Performance & Gearing
-To optimize straight-line acceleration, I modeled the engine's torque curve against various final drive ratios. This simulation allowed us to select a gearing ratio that maximized tractive effort in the endurance event's most common speed range.
+### Vehicle Gallery
+{% include image-gallery.html images="4.3front.png, 4.3side.png, 4.3rear.png, 4.3top.png" height="200" %}
 
-{% include image-gallery.html images="engineT&PvRPM.png" height="300" %}
+{% include image-gallery.html images="4.3iso.png, 4.3leftiso.png" height="400" %}
