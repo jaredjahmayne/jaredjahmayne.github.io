@@ -36,3 +36,8 @@ In addition to my duties as CTO, I serve as the Vehicle Dynamics Lead:
 Developed a rigorous testing program prioritizing safety and data validation:
 * **Safety Standards:** Enforced a "No-Move" policy unless a fire extinguisher, safety officer, and pre-flight checklist are present.
 * **Data Logging:** Standardized testing logs to correlate static design goals with dynamic real-world data.
+
+### Vehicle Gallery
+{% include image-gallery.html images="/assets/4.3front.png, /assets/4.3side.png, /assets/4.3rear.png, /assets/4.3top.png" height="200" %}
+
+{% include image-gallery.html images="/assets/4.3iso.png, /assets/4.3leftiso.png" height="400" %}
