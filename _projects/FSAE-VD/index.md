@@ -1,28 +1,45 @@
 ---
 layout: post
-title: Vehicle Dynamics & Tire Modeling
-description: Utilization of Tire Test Consortium (TTC) data to create predictive handling models, including understeer gradient and lateral load transfer distribution (LLTD).
+title: Vehicle Dynamics & Performance Simulation
+description: Deriving vehicle performance targets through tire data analysis, aerodynamic mapping, and engine simulation.
 skills:
-  - MATLAB & Simulink
   - Tire Data Analysis (TTC)
-  - Pacejka Magic Formula
-  - Data Processing
-  - Mathematical Modeling
-main-image: /assets/vd-main-graph.png
+  - Aerodynamic Target Setting
+  - Engine Performance Modeling
+  - MATLAB / Simulink
+  - Data Visualization
+main-image: frictioneclipse.png
 ---
 
 ### Project Overview
-To validate the design decisions for the Titan XIX chassis, I developed a suite of MATLAB tools to analyze raw tire data from the Formula SAE Tire Test Consortium (TTC). The goal was to transition from "rule of thumb" design to data-driven vehicle dynamics.
+My primary role as Vehicle Dynamics Lead was to transition the team from "rule of thumb" design to data-driven engineering. This involved creating a full vehicle performance model to set objective targets for the subsystem teams.
 
-### Tire Data Analysis
-I wrote scripts to parse raw `.dat` files, filtering for specific camber angles and pressure ranges. By fitting this data to curves, I was able to determine:
-* **Cornering Stiffness (C-alpha):** Calculating the initial slope of the force vs. slip curve to predict steering response.
-* **Peak Grip:** Identifying the saturation point of the Hoosier tires to set maximum lateral G targets for the suspension team.
+### 1. Tire Data Analysis & Handling Targets
+I utilized raw data from the Formula SAE Tire Test Consortium (TTC) to characterize our tire performance. By fitting the data to curves, I calculated optimal targets for:
+* **Slip Angle:** Identifying the peak lateral force to set steering geometry.
+* **Understeer Gradient:** Modeled the vehicle's steady-state handling behavior to ensure neutral steer characteristics at the limit.
 
-### Handling Predictions
-Using these tire models, I calculated the theoretical **Understeer Gradient** for the vehicle. This allowed our team to:
-1.  Tune the static weight distribution and aero center of pressure.
-2.  Adjust roll stiffness distributions (sway bars) to shift the car towards neutral steer behavior at the limit.
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+    <img src="FY_v_SA.png" height="300" style="object-fit: contain; border: 1px solid #ddd;">
+    <img src="MZ_v_SA.png" height="300" style="object-fit: contain; border: 1px solid #ddd;">
+    <img src="ggdiagram.png" height="300" style="object-fit: contain; border: 1px solid #ddd;">
+    <img src="optimaltemp.png" height="300" style="object-fit: contain; border: 1px solid #ddd;">
+    <img src="understeergradient.png" height="300" style="object-fit: contain; border: 1px solid #ddd;">
+</div>
+<br>
 
-### Gallery
-{% include image-gallery.html images="vd-graph1.png, vd-graph2.png, vd-graph3.png" height="300" %}
+### 2. Aerodynamic Targets
+I developed a sensitivity analysis to determine the point of diminishing returns for downforce vs. drag. These targets were passed to the Aero team to ensure the package was efficient for the specific average speeds of the FSAE competition.
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+    <img src="aeroldratio.png" height="300" style="object-fit: contain; border: 1px solid #ddd;">
+    <img src="aerotargets.png" height="300" style="object-fit: contain; border: 1px solid #ddd;">
+</div>
+<br>
+
+### 3. Engine Performance & Gearing
+To optimize straight-line acceleration, I modeled the engine's torque curve against various final drive ratios. This simulation allowed us to select a gearing ratio that maximized tractive effort in the endurance event's most common speed range.
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+    <img src="engineT&PvRPM.png" height="300" style="object-fit: contain; border: 1px solid #ddd;">
+</div>
