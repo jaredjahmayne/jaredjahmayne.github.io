@@ -13,7 +13,7 @@ main-image: /fsae-car-1.jpg
 ---
 
 ### Role Overview
-As **Chief Technical Officer (CTO)** for the Cal State Fullerton Formula SAE team, I hold primary responsibility for the technical direction of the 2026 competition vehicle. My role bridges the gap between design theory and physical manufacturing, ensuring that all sub-systems (Frame, Suspension, Powertrain, Aero) integrate seamlessly into a high-performance vehicle.
+As **Chief Technical Officer (CTO)** for the Cal State Fullerton Formula SAE team, I hold primary responsibility for the technical direction of the 2026 competition vehicle. My role bridges the gap between design theory and physical manufacturing, ensuring that all sub-systems (Chassis, Suspension, Powertrain, Aero) integrate seamlessly into a high-performance vehicle.
 
 ### Technical Management & Systems Integration
 * **Master CAD Assembly:** Manage the top-level SolidWorks assembly, performing regular interference checks to resolve packaging conflicts between sub-teams early in the design phase.
