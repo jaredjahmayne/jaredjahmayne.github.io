@@ -40,4 +40,4 @@ Developed a rigorous testing program prioritizing safety and data validation:
 ### Vehicle Gallery
 {% include image-gallery.html images="4.3front.png, 4.3side.png, 4.3rear.png, 4.3top.png" height="200" %}
 
-{% include image-gallery.html images="4.3iso.png, 4.3leftiso.png, fsae_1.heic, fsae_2.heic, fsae_3.heic, fsae_4.heic, fsae_5.heic, fsae_6.heic, fsae_7.heic, fsae_8.heic, fsae_9.heic, fsae_10.heic, fsae_12.heic, fsae_13.jpg" height="400" %}
+{% include image-gallery.html images="4.3iso.png, 4.3leftiso.png, fsae_1.png, fsae_2.png, fsae_3.png, fsae_4.png, fsae_5.png, fsae_7.png, fsae_8.png, fsae_9.png, fsae_10.png, fsae_12.png, fsae_13.png" height="400" %}
