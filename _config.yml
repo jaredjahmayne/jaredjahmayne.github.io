@@ -28,7 +28,7 @@ resume-url: /assets/resume/resume Q22026.pdf # or /assets/resume/resume.pdf
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
   linkedin: jared-jwarren    # https://www.linkedin.com/in/{your url slug} 
-  github: https://github.com/jaredjahmayne    # https://github.com/{your url slug} 
+  github: jaredjahmayne    # https://github.com/{your url slug} 
   stackoverflow:       # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
