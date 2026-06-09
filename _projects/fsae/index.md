@@ -9,7 +9,7 @@ skills:
   - Vehicle Dynamics
   - Design for Manufacturing (DFM)
   - Project Management
-main-image: /fsae-11.png
+main-image: /fsae_11.png
 ---
 
 ### Role Overview
@@ -41,4 +41,4 @@ Developed a rigorous testing program prioritizing safety and data validation:
 ### Vehicle Gallery
 {% include image-gallery.html images="4.3front.png, 4.3side.png, 4.3rear.png, 4.3top.png" height="200" %}
 
-{% include image-gallery.html images="4.3iso.png, 4.3leftiso.png, fsae_1.png, fsae_2.png, fsae_3.png, fsae_4.png, fsae_5.png, fsae_7.png, fsae_8.png, fsae_9.png, fsae_10.png, fsae_12.png, fsae_13.png" height="400" %}
+{% include image-gallery.html images="4.3iso.png, 4.3leftiso.png, fsae_1.png, fsae_2.png, fsae_3.png, fsae_4.png, fsae_5.png, fsae_7.png, fsae_8.png, fsae_9.png, fsae_10.png, fsae_13.png" height="400" %}
