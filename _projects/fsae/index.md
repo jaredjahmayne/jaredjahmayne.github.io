@@ -20,6 +20,7 @@ As **Chief Technical Officer (CTO)** for the Cal State Fullerton Formula SAE tea
 * **Design Freeze & Timeline:** Enforce strict "Design Freeze" dates to prevent feature creep, ensuring the team transitions to manufacturing on schedule to maximize testing time.
 * **Design for Manufacturing (DFM):** Implemented a mandatory DFM review policy where all components must be vetted for manufacturability and cost before approval. *If we can't make it or afford it, it doesn't go on the car.*
 * **Risk Management (FMEA):** Led Failure Mode and Effects Analysis sessions to identify critical failure points and develop mitigation strategies for trackside reliability.
+* **Testing & Validation:** Led test programs to optimize powertrain and to tune suspension, identifying areas for improvement for vehicle performance. 
 
 ### Documentation & Compliance
 I am responsible for the technical deliverables required for the SAE Collegiate Design Series:
