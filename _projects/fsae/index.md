@@ -9,7 +9,7 @@ skills:
   - Vehicle Dynamics
   - Design for Manufacturing (DFM)
   - Project Management
-main-image: /fsae-11.heic
+main-image: /fsae-11.png
 ---
 
 ### Role Overview
