@@ -39,7 +39,7 @@ As a freelance **Live and Broadcast Audio Engineer**, I bridge the gap between t
   Engineered full-band and primary artist In-Ear Monitor (IEM) mixes during high-intensity tour rehearsals. Collaborated directly with the artist and production team to optimize signal routing, refine stage sound, and finalize critical audio decisions prior to the tour's departure.
 
 ### Featured Livestream Mixes
-[Listen to my live broadcast mixes on YouTube →](https://youtube.com/playlist?list=PLWPCZa4Vl0L0)
+[Listen to my live broadcast mixes on YouTube →](https://youtube.com/playlist?list=PLWPCZa4V10L0&si=Ac8gDYdIwW8B2ARL)
 
 This playlist demonstrates real-time signal processing, dynamic balancing, and live broadcast routing for various artists and services.
 
