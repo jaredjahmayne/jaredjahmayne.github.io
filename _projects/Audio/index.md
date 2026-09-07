@@ -9,7 +9,7 @@ skills:
   - Signal Processing
   - Digital Audio Workstations (Logic Pro, Ableton, Studio One)
   - Systems Integration
-main-image: 
+main-image: /audio_photos (11).png
 ---
 
 ### Role Overview
@@ -39,8 +39,9 @@ As a freelance **Live and Broadcast Audio Engineer**, I bridge the gap between t
   Engineered full-band and primary artist In-Ear Monitor (IEM) mixes during high-intensity tour rehearsals. Collaborated directly with the artist and production team to optimize signal routing, refine stage sound, and finalize critical audio decisions prior to the tour's departure.
 
 ### Featured Livestream Mixes
-[Listen to my live broadcast mixes on YouTube →](https://youtube.com/playlist?list=PLWPCZa4V10L0&si=Ac8gDYdIwW8B2ARL)
+[Listen to my live broadcast mixes on YouTube →](https://youtube.com/playlist?list=PLWPCZa4V10L0&si=lNon_xZSQDXaDWfp)
 
 This playlist demonstrates real-time signal processing, dynamic balancing, and live broadcast routing for various artists and services.
 
 ### Production Gallery
+{% include image-gallery.html images="audio_photos (2).png" height="300" %}
