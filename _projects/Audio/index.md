@@ -44,4 +44,4 @@ As a freelance **Live and Broadcast Audio Engineer**, I bridge the gap between t
 This playlist demonstrates real-time signal processing, dynamic balancing, and live broadcast routing for various artists and services.
 
 ### Production Gallery
-{% include image-gallery.html images="audio_photos (1).png, audio_photos (2).png, audio_photos (3).png, audio_photos (4).png, audio_photos (5).png, audio_photos (6).png, audio_photos (7).png, audio_photos (8).png, audio_photos (9).png, audio_photos (10).png" height="300" %}
+{% include image-gallery.html images="audio_photos (1).png, audio_photos (2).png, audio_photos (3).png, audio_photos (4).png, audio_photos (6).png, audio_photos (7).png, audio_photos (8).png, audio_photos (9).png, audio_photos (10).png" height="300" %}
