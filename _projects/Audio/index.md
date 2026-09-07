@@ -3,7 +3,7 @@ layout: post
 title: Freelance Live & Broadcast Engineer
 description: Freelance audio engineer specializing in live sound production, networked audio routing, and low-latency broadcast mixing.
 skills:
-- Live Sound Mixing
+  - Live Sound Mixing
   - Networked Audio (Dante)
   - Broadcast Routing & Streaming
   - Signal Processing
